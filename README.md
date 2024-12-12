@@ -3,7 +3,7 @@
 A very easy fruit cutting game.There is only one module you need import.
 <br>
 
-<a href="https://github.com/" target="_blank">
+<a href="https://pypi.org/project/pygame/" target="_blank">
     <img src="https://img.shields.io/badge/Python-pygame-green?link=https%3A%2F%2Fpypi.org%2Fproject%2Fpygame%2F" alt="Static Badge">
 </a>
 
